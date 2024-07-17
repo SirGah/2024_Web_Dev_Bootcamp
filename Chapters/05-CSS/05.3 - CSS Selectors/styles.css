@@ -1,0 +1,13 @@
+h2{
+    color: rgb(238, 233, 233);
+    background-color: black;
+}
+body{
+    background-color: rgb(34, 77, 133);
+}
+.red-text{
+color: red;
+} 
+p[draggable]{
+    color:yellow
+}
